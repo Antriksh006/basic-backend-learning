@@ -1,0 +1,19 @@
+{
+  "name": "js-masti",
+  "version": "1.0.0",
+  "description": "basic testing masti",
+  "main": "test.js",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "keywords": [
+    "basic",
+    "test",
+    "masti"
+  ],
+  "author": "Antrishh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
